@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
