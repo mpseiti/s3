@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update Discord and Contributing Guide URLs (#9270)
