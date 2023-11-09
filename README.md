@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
