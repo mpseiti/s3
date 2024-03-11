@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
