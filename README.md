@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Update Docs Home and Neural Magic pages (#7243)
