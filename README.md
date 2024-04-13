@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
