@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+OBB: Fix plot_images (#7592)
